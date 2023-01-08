@@ -1,1 +1,3 @@
 The quick fox jumped.
+The quick fox jumped over the sleeping dog. 
+The cat watched.
